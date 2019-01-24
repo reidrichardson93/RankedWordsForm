@@ -1,0 +1,11 @@
+C:\Users\CCA017\source\repos\RankedWordsProto\RankedWordsProto\bin\Debug\RankedWordsProto.exe.config
+C:\Users\CCA017\source\repos\RankedWordsProto\RankedWordsProto\bin\Debug\RankedWordsProto.exe
+C:\Users\CCA017\source\repos\RankedWordsProto\RankedWordsProto\bin\Debug\RankedWordsProto.pdb
+C:\Users\CCA017\source\repos\RankedWordsProto\RankedWordsProto\obj\Debug\RankedWordsProto.csprojResolveAssemblyReference.cache
+C:\Users\CCA017\source\repos\RankedWordsProto\RankedWordsProto\obj\Debug\RankedWordsProto.Form1.resources
+C:\Users\CCA017\source\repos\RankedWordsProto\RankedWordsProto\obj\Debug\RankedWordsProto.Properties.Resources.resources
+C:\Users\CCA017\source\repos\RankedWordsProto\RankedWordsProto\obj\Debug\RankedWordsProto.csproj.GenerateResource.Cache
+C:\Users\CCA017\source\repos\RankedWordsProto\RankedWordsProto\obj\Debug\RankedWordsProto.csproj.CoreCompileInputs.cache
+C:\Users\CCA017\source\repos\RankedWordsProto\RankedWordsProto\obj\Debug\RankedWordsProto.exe
+C:\Users\CCA017\source\repos\RankedWordsProto\RankedWordsProto\obj\Debug\RankedWordsProto.pdb
+C:\Users\CCA017\source\repos\RankedWordsProto\RankedWordsProto\obj\Debug\RankedWordsProto.OpenFile.resources
